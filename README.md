@@ -1,0 +1,2 @@
+# project
+simple Scala program
